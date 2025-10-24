@@ -1,8 +1,4 @@
-**NAME:JENITTAN JOSE J B**
-
-**REG NO:24006462**
-
-**EXP NO 7:JKFLIPFLOP USING IF ELSE**
+# JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
@@ -41,20 +37,19 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+<img width="563" height="137" alt="Screenshot 2025-10-16 204529" src="https://github.com/user-attachments/assets/747e3dc1-0a70-4a19-97bf-550aee621e6e" />
 
-![Screenshot 2024-12-26 110746](https://github.com/user-attachments/assets/af5f6c13-671c-456c-9e2a-4047cf63d4cf)
 
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+*/
 
 **RTL LOGIC FOR FLIPFLOPS**
-
-![Screenshot 2024-12-26 110754](https://github.com/user-attachments/assets/326c44d8-1241-4366-8610-50ed4d4608a1)
+<img width="1167" height="563" alt="Screenshot 2025-10-16 204549" src="https://github.com/user-attachments/assets/74731697-36e8-42fa-bffb-c94a56a85587" />
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-
-![Screenshot 2024-12-26 110859](https://github.com/user-attachments/assets/55fef525-bca9-47a9-a105-212ca356b8ad)
+<img width="1176" height="599" alt="Screenshot 2025-10-16 204615" src="https://github.com/user-attachments/assets/fe25e9e7-6536-469d-b9a3-6783bd851cd2" />
 
 
 **RESULTS**
-Designed and verified the implimentation of JK flipflop circuit and truthtable in quartus ii using
-verilog programming successfully
+Thus the basic logic gates are studied and the truth table are verified
